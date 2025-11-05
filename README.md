@@ -29,7 +29,7 @@ and SmartTrip AI instantly tells you what to do, when to do it, how the weather 
  Calendar Integration – Optionally sync plans with Google Calendar.
 
 ---
-How It Works
+## How It Works
 
 User Input: We’re in Delhi for 4 hours” or “Plan a day in Paris.
 
