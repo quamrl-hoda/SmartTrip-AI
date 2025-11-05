@@ -8,7 +8,7 @@ Simply say:
  We are going to Mumbai for 5 hours.
 and SmartTrip AI instantly tells you what to do, when to do it, how the weather is, and what’s happening around.
 
- Key Features
+## Key Features
 
  Multimodal Intelligence – Understands text, voice, and images to detect your location and intent.
 
