@@ -1,11 +1,11 @@
 ## SmartTrip AI — Multimodal Travel & Activity Planner
-```
-“Know what to do, when to do it, and how the day looks — anywhere you go.”
+---
+Know what to do, when to do it, and how the day looks — anywhere you go.
 
 SmartTrip AI is an AI-powered multimodal assistant that plans your activities, schedules them intelligently, and even updates you on local weather and city news.
 Simply say:
 
-“We’re going to Mumbai for 5 hours.”
+ We are going to Mumbai for 5 hours.
 and SmartTrip AI instantly tells you what to do, when to do it, how the weather is, and what’s happening around.
 
  Key Features
@@ -28,10 +28,10 @@ and SmartTrip AI instantly tells you what to do, when to do it, how the weather 
 
  Calendar Integration – Optionally sync plans with Google Calendar.
 
-```
+---
 How It Works
 
-User Input: “We’re in Delhi for 4 hours” or “Plan a day in Paris.”
+User Input: We’re in Delhi for 4 hours” or “Plan a day in Paris.
 
 Context Understanding: Detects city, time window, and preferences.
 
